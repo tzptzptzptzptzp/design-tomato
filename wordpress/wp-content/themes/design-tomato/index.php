@@ -237,7 +237,8 @@
                                         <p class="ml:hidden">Design Tomato代表<br>Webエンジニア</p>
                                     </div>
                                     <p class="mb-5">栃木県宇都宮市出身</p>
-                                    <p class="mb-5">幼い頃よりパソコンを使うのが<br class="ml:hidden">好きだったこともあり、<br>プログラミングに興味を持ち<br class="ml:hidden">独学でWeb制作を開始。<br>Wordpressテーマを複数制作し、<br>現在４サイトを運営中！</p>
+                                    <p class="mb-5">SHOWROOM株式会社でエンジニアをしながら、<br>Design TomatoにてWeb全般のお仕事をしています！</p>
+                                    <p class="mb-5">幼い頃よりパソコンを使うのが<br class="ml:hidden">好きだったこともあり、<br>プログラミングに興味を持ち<br class="ml:hidden">独学でWebエンジニアへ！</p>
                                     <p class="mb-5">趣味でやっているイラストのおかげで<br class="ml:hidden">デザイン感が養われ、<br>サイト制作のデザイン面も<br class="ml:hidden">担当しています。<br>イラスト制作ツールを<br class="ml:hidden">10年以上使っていることもあり、<br>サイト素材などの制作も得意です！</p>
                                     <div><a href="<?php echo home_url(); ?>/profile/">＞ <span>詳しく見る</span></a><a href="<?php echo home_url(); ?>/about/" class="ml-10">＞ <span>事業者情報</span></a></div>
                                 </div>
