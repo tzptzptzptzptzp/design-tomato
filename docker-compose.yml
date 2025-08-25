@@ -4,9 +4,9 @@ services:
   # 1. データベース(MySQL)のサービス
   db:
     image: mysql:8.0
-    container_name: my-wp-db
+    container_name: design-tomato-db
     volumes:
-      - db_data:/var/lib/mysql
+      - design_tomato_db_data:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: "password"
       MYSQL_DATABASE: "wordpress_db"
@@ -14,12 +14,12 @@ services:
       MYSQL_PASSWORD: "password"
     restart: always
     networks:
-      - wpsite
+      - design-tomato-network
 
   # 2. WordPressのサービス
   wordpress:
     image: wordpress:latest # 最新版のWordPressイメージ
-    container_name: my-wp-site
+    container_name: design-tomato-wp
     depends_on:
       - db
     ports:
@@ -34,12 +34,12 @@ services:
       WORDPRESS_TABLE_PREFIX: "wp_"
     restart: always
     networks:
-      - wpsite
+      - design-tomato-network
 
   # 3. (オプション) データベース管理ツール(phpMyAdmin)
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
-    container_name: my-wp-phpmyadmin
+    container_name: design-tomato-phpmyadmin
     depends_on:
       - db
     ports:
@@ -50,10 +50,10 @@ services:
       MYSQL_ROOT_PASSWORD: "password"
     restart: always
     networks:
-      - wpsite
+      - design-tomato-network
 
 volumes:
-  db_data:
+  design_tomato_db_data:
 
 networks:
-  wpsite:
+  design-tomato-network:

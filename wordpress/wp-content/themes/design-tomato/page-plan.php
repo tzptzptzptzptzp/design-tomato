@@ -44,11 +44,11 @@
                         <div class="c-campaign__content text-[2rem]">
                             <div class="h-8"></div>
                             <p>制作料金最大50%OFFの<br class="ml:hidden">キャンペーン実施中です！</p>
-                            <p class="mb-8">¥29,880~からHP制作を行えます！</p>
+                            <p class="mb-8">¥59,800~からHP制作を行えます！</p>
                             <div class="c-balloon">
                                 <picture>
-                                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                                 </picture>
                                 <p class="bg-white text-[#ff9c89]">まずはお気軽に<br class="ml:hidden">お問い合わせ下さい！<span class="bg-white"></span></p>
                             </div>

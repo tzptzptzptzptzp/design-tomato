@@ -4,8 +4,8 @@
 
             <div class="c-balloon vertical balloon-xl w-[90%] max-w-800 m-auto ml:mb-16 s:mb-8">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="w-full ml:!p-16 !rounded-20 bg-sub text-white text-center leading-snug">制作に関するご相談から、<br class="ml:hidden">Webに関するご不明点など<br>お気軽にご相談ください！<span class="bg-sub"></span></p>
             </div>
@@ -40,8 +40,8 @@
                         </div>
                         <div class="c-balloon flex-row-reverse ml-auto mb-2">
                             <picture>
-                                <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                                <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                                <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                                <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                             </picture>
                             <p class="!p-4 bg-white">お問い合わせありがとうござい…<span class="bg-white"></span></p>
                         </div>
@@ -96,13 +96,14 @@
                         <img class="lazyload w-auto max-h-[55px] ml:mt-4 mb-4 object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/headline/headline-creator.png" alt="制作クリエイター" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="200" height="80" />
                     </picture>
                 </div>
-                <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload mb-4 object-cover rounded-full" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" width="150px" height="150px" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                </picture>
+                <img class="lazyload mb-4 object-cover rounded-full" data-src="https://bsj-api.vercel.app//api/bsj/current" width="150px" height="150px" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                 <div class="mb-2 text-2xl s:text-3xl">
                     <p>テツカ ヒロキ</p>
-                    <p>Design Tomato代表<br>Webプログラマー</p>
+                    <p>
+                        Design Tomato代表<br>
+                        SHOWROOM株式会社<br>
+                        Webエンジニア
+                    </p>
                 </div>
                 <div class="text-center">
                     <?php get_template_part('./parts/sns-link'); ?>

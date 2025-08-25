@@ -16,14 +16,14 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥49,800~</p>
+                <p>¥109,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥29,880~</p>
+                <p class="fuchidori-main">¥59,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">手軽にホームページを作りたい！<span class="bg-sub"></span></p>
             </div>
@@ -46,14 +46,14 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥99,800~</p>
+                <p>¥179,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥49,900~</p>
+                <p class="fuchidori-main">¥99,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">デザインをしっかり考えたい！<span class="bg-sub"></span></p>
             </div>
@@ -76,14 +76,14 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥199,800~</p>
+                <p>¥319,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥149,850~</p>
+                <p class="fuchidori-main">¥199,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">こだわったサイトを作りたい！<span class="bg-sub"></span></p>
             </div>
