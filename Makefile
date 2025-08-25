@@ -3,7 +3,7 @@
 # コンテナをバックグラウンドで起動する
 up:
 	docker-compose up -d 2>/dev/null || (echo "コンテナ名の競合を検出しました。既存のコンテナを再利用します..." && \
-	docker start my-wp-db my-wp-site my-wp-phpmyadmin 2>/dev/null)
+	docker start design-tomato-db design-tomato-wp design-tomato-phpmyadmin 2>/dev/null)
 	@echo "コンテナが起動しました。http://localhost:8000 でWordPressにアクセスできます"
 	@echo "停止するには 'make down' を実行してください"
 
@@ -42,7 +42,7 @@ fulldown:
 
 # コンテナの競合を解決して再起動（名前の競合がある場合に使用）
 reset:
-	docker rm -f my-wp-db my-wp-site my-wp-phpmyadmin 2>/dev/null || true
+	docker rm -f design-tomato-db design-tomato-wp design-tomato-phpmyadmin 2>/dev/null || true
 	docker-compose up -d
 
 # ヘルプを表示
