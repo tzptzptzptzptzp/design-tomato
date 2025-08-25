@@ -96,13 +96,14 @@
                         <img class="lazyload w-auto max-h-[55px] ml:mt-4 mb-4 object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/headline/headline-creator.png" alt="制作クリエイター" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="200" height="80" />
                     </picture>
                 </div>
-                <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
-                    <img class="lazyload mb-4 object-cover rounded-full" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" width="150px" height="150px" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
-                </picture>
+                <img class="lazyload mb-4 object-cover rounded-full" data-src="https://bsj-api.vercel.app//api/bsj/current" width="150px" height="150px" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
                 <div class="mb-2 text-2xl s:text-3xl">
                     <p>テツカ ヒロキ</p>
-                    <p>Design Tomato代表<br>Webプログラマー</p>
+                    <p>
+                        Design Tomato代表<br>
+                        SHOWROOM株式会社<br>
+                        Webエンジニア
+                    </p>
                 </div>
                 <div class="text-center">
                     <?php get_template_part('./parts/sns-link'); ?>
