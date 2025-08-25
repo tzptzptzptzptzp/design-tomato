@@ -80,7 +80,7 @@
                             <div class="c-campaign__content">
                                 <div class="h-8"></div>
                                 <p>制作料金最大50%OFFの<br class="ml:hidden">キャンペーン実施中です！</p>
-                                <p class="mb-8">¥29,880~からHP制作を行えます！</p>
+                                <p class="mb-8">¥59,800~からHP制作を行えます！</p>
                                 <div class="c-balloon">
                                     <picture>
                                         <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />

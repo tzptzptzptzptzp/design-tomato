@@ -16,9 +16,9 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥49,800~</p>
+                <p>¥109,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥29,880~</p>
+                <p class="fuchidori-main">¥59,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
@@ -46,9 +46,9 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥99,800~</p>
+                <p>¥179,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥49,900~</p>
+                <p class="fuchidori-main">¥99,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
@@ -76,9 +76,9 @@
                 </picture>
             </div>
             <div class="p-plan__price">
-                <p>¥199,800~</p>
+                <p>¥319,800~</p>
                 <p>↓</p>
-                <p class="fuchidori-main">¥149,850~</p>
+                <p class="fuchidori-main">¥199,800~</p>
             </div>
             <div class="c-balloon vertical">
                 <picture>
