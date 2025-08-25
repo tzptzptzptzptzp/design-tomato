@@ -22,8 +22,8 @@
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">手軽にホームページを作りたい！<span class="bg-sub"></span></p>
             </div>
@@ -52,8 +52,8 @@
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">デザインをしっかり考えたい！<span class="bg-sub"></span></p>
             </div>
@@ -82,8 +82,8 @@
             </div>
             <div class="c-balloon vertical">
                 <picture>
-                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                    <img class="lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                 </picture>
                 <p class="bg-sub text-white">こだわったサイトを作りたい！<span class="bg-sub"></span></p>
             </div>

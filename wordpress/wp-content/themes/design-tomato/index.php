@@ -83,8 +83,8 @@
                                 <p class="mb-8">¥59,800~からHP制作を行えます！</p>
                                 <div class="c-balloon">
                                     <picture>
-                                        <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                                        <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
+                                        <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                                        <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="50" height="50" />
                                     </picture>
                                     <p class="bg-white text-[#ff9c89]">まずはお気軽に<br class="ml:hidden">お問い合わせ下さい！<span class="bg-white"></span></p>
                                 </div>
@@ -114,8 +114,8 @@
 
                             <div class="c-balloon vertical balloon-xl m-auto mb-16">
                                 <picture>
-                                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="75" />
+                                    <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                                    <img class="lazyload object-cover" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="75" />
                                 </picture>
                                 <p class="bg-sub text-white text-center">様々なニーズに合わせて<br class="ml:hidden">最適なデザインを提案します！<span class="bg-sub"></span></p>
                             </div>
@@ -223,8 +223,8 @@
                             <div class="p-creator__content flex s:flex-col s:w-[94%] max-w-800 m-auto ml:mb-24 s:mb-12 p-12 s:px-4 rounded-25">
                                 <div class="ml:col-3 flex items-center s:w-3/5 s:h-3/5 s:m-auto s:mb-8">
                                     <picture>
-                                        <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.webp" type="image/webp" />
-                                        <img class="lazyload w-auto h-auto object-cover rounded-full" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan.jpg" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="200" height="200" />
+                                        <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.webp" type="image/webp" />
+                                        <img class="lazyload w-auto h-auto object-cover rounded-full" data-src="<?php echo get_template_directory_uri(); ?>/assets/images/bisyojo_chan_new.png" alt="美少女ちゃん" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="200" height="200" />
                                     </picture>
                                 </div>
                                 <div class="ml:col-9 ml:pl-10 ml:text-3xl s:text-2xl s:text-center ml:leading-snug s:leading-relaxed">
