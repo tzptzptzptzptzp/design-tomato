@@ -37,7 +37,7 @@
                                 </picture>
                             </div>
                             <div class="c-banner">
-                                <a href="<?php echo home_url(); ?>/estimate/">
+                                <a href="https://forms.gle/tHZZa6fy25JeWxH3A" target="_blank" rel="noopener noreferrer">
                                     <picture>
                                         <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/banner/banner-estimate-sp.webp" media="(max-width: 599px)" type="image/webp" />
                                         <source data-srcset="<?php echo get_template_directory_uri(); ?>/assets/images/banner/banner-estimate-sp.jpg" media="(max-width: 599px)" />
