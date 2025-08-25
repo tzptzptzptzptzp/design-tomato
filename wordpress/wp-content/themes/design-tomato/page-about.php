@@ -78,7 +78,7 @@
                                 </div>
                                 <div class="flex s:flex-col">
                                     <p>所在地</p>
-                                    <p>福島県いわき市</p>
+                                    <p>東京都中央区日本橋2丁目16-4 remix日本橋 6階</p>
                                 </div>
                                 <div class="flex s:flex-col">
                                     <p>事業内容</p>
